@@ -75,6 +75,9 @@ Content-Type : application/json
 
 Removes an event given its id.
 
-
+## Testing
+Run the following command in order to execute all the tests
+```npm test -- --coverage
+```
 
 
